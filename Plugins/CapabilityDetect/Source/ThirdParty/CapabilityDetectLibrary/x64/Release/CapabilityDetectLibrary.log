@@ -1,0 +1,10 @@
+﻿  CapabilityDetectLibrary.cpp
+  StatsCollector.cpp
+  WindowsCollector.cpp
+     Creating library C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\ThirdParty\CapabilityDetectLibrary\x64\Release\CapabilityDetectLibrary.lib and object C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\ThirdParty\CapabilityDetectLibrary\x64\Release\CapabilityDetectLibrary.exp
+  Generating code
+  All 1129 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CapabilityDetectLibrary.vcxproj -> C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\ThirdParty\CapabilityDetectLibrary\x64\Release\CapabilityDetectLibrary.dll
+  C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\ThirdParty\CapabilityDetectLibrary\x64\Release\CapabilityDetectLibrary.dll
+  1 File(s) copied

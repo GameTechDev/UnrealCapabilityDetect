@@ -1,0 +1,5 @@
+C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Source\CapabilityDetectDemo\CapabilityDetectDemo.Build.cs
+C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\CapabilityDetect\CapabilityDetect.Build.cs
+C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Source\ThirdParty\CapabilityDetectLibrary\CapabilityDetectLibrary.Build.cs
+C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Source\CapabilityDetectDemo.Target.cs
+C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Source\CapabilityDetectDemoEditor.Target.cs

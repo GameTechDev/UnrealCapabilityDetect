@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Intermediate\Build\Win64\UE4\Development\CapabilityDetect\Module.CapabilityDetect.cpp.obj"
+"C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Intermediate\Build\Win64\UE4\Development\CapabilityDetect\CapabilityDetectBPLib.cpp.obj"
+"C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Intermediate\Build\Win64\UE4\Development\CapabilityDetect\Module.CapabilityDetect.gen.cpp.obj"
+"C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Intermediate\Build\Win64\UE4\Development\CapabilityDetect\PCLaunch.rc.res"
+/OUT:"C:\Users\duboism\Documents\GitHub\CapabilityDetectDemo\Plugins\CapabilityDetect\Binaries\Win64\UE4-CapabilityDetect.lib"

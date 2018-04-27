@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Capability Detect",
+	"Description": "Detects System Capabilities",
+	"Category": "Intel",
+	"CreatedBy": "Intel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+  "Modules": [
+    {
+      "Name": "CapabilityDetect",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64"
+      ]
+    }
+  ]
+}
